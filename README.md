@@ -84,7 +84,6 @@ I’m open to collaborating on **full-stack projects, AI/ML systems, cybersecuri
 </a>
 
 </div>
----
 
 <p align="center">
   <i>"Code is not just about solving problems — it's about building possibilities."</i>
