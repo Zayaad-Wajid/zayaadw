@@ -66,7 +66,7 @@ I’m open to collaborating on **full-stack projects, AI/ML systems, cybersecuri
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/zayaadw" target="_blank">
+<a href="https://github.com/Zayaad-Wajid" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="60">
 </a>
 &nbsp;&nbsp;&nbsp;
